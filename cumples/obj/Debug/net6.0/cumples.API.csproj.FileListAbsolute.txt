@@ -1,0 +1,347 @@
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\appsettings.Development.json
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\appsettings.json
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\cumples.API.exe
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\cumples.API.deps.json
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\cumples.API.runtimeconfig.json
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\cumples.API.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\cumples.API.pdb
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.csproj.AssemblyReference.cache
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfoInputs.cache
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfo.cs
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.csproj.CoreCompileInputs.cache
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cs
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cache
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\staticwebassets\msbuild.cumples.API.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\staticwebassets\msbuild.build.cumples.API.props
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cumples.API.props
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cumples.API.props
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\staticwebassets.pack.json
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\staticwebassets.build.json
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\staticwebassets.development.json
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\scopedcss\bundle\cumples.API.styles.css
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.csproj.CopyComplete
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\refint\cumples.API.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.pdb
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.genruntimeconfig.cache
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\obj\Debug\net6.0\ref\cumples.API.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Azure.Core.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Azure.Identity.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\System.Drawing.Common.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\System.Memory.Data.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\System.Runtime.Caching.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\System.Security.Permissions.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\System.Windows.Extensions.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\cumples.DataModel.dll
+d:\Users\gmesny\Documents\OneDrive - CRESUD S.A.C.I.F.y A\Apps\BE-IRINA\cumples\bin\Debug\net6.0\cumples.DataModel.pdb
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.csproj.AssemblyReference.cache
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfoInputs.cache
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfo.cs
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.csproj.CoreCompileInputs.cache
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.dll
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\refint\cumples.API.dll
+C:\Users\ialmazan\CRESUD S.A.C.I.F.y A\Gaston Julio Mesny - BE-IRINA\cumples\obj\Debug\net6.0\cumples.API.pdb
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.csproj.AssemblyReference.cache
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfoInputs.cache
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfo.cs
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.csproj.CoreCompileInputs.cache
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cs
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cache
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.pdb
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\appsettings.Development.json
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\appsettings.json
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\cumples.API.exe
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\cumples.API.deps.json
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\cumples.API.runtimeconfig.json
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\cumples.API.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\cumples.API.pdb
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Azure.Core.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Azure.Identity.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\System.Drawing.Common.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\System.Memory.Data.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\System.Runtime.Caching.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\System.Security.Permissions.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\System.Windows.Extensions.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\cumples.DataModel.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\cumples.Services.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\cumples.DataModel.pdb
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\bin\Debug\net6.0\cumples.Services.pdb
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\staticwebassets\msbuild.cumples.API.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\staticwebassets\msbuild.build.cumples.API.props
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cumples.API.props
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cumples.API.props
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\staticwebassets.pack.json
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\staticwebassets.build.json
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\staticwebassets.development.json
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\scopedcss\bundle\cumples.API.styles.css
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.csproj.CopyComplete
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\refint\cumples.API.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\cumples.API.genruntimeconfig.cache
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\cumples\obj\Debug\net6.0\ref\cumples.API.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\appsettings.json
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.API.exe
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.API.deps.json
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.API.runtimeconfig.json
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.API.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.API.pdb
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.DataModel.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.Services.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.DataModel.pdb
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.Services.pdb
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.csproj.AssemblyReference.cache
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfoInputs.cache
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfo.cs
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.csproj.CoreCompileInputs.cache
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\staticwebassets\msbuild.cumples.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\staticwebassets\msbuild.build.cumples.API.props
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cumples.API.props
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cumples.API.props
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\scopedcss\bundle\cumples.API.styles.css
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.csproj.CopyComplete
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\refint\cumples.API.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.pdb
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\cumples.API.genruntimeconfig.cache
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\obj\Debug\net6.0\ref\cumples.API.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.Infrastructure.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\cumples.Infrastructure.pdb
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\appsettings.json
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.API.exe
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.API.deps.json
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.API.runtimeconfig.json
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.API.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.API.pdb
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.DataModel.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.Infrastructure.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.Services.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.Infrastructure.pdb
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.DataModel.pdb
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\bin\Debug\net6.0\cumples.Services.pdb
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.csproj.AssemblyReference.cache
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfoInputs.cache
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.AssemblyInfo.cs
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.csproj.CoreCompileInputs.cache
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.sourcelink.json
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\staticwebassets\msbuild.cumples.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\staticwebassets\msbuild.build.cumples.API.props
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cumples.API.props
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cumples.API.props
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\scopedcss\bundle\cumples.API.styles.css
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.csproj.CopyComplete
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\refint\cumples.API.dll
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.pdb
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\cumples.API.genruntimeconfig.cache
+C:\Users\gmesny\Documents\GIT\Cumples\cumples\obj\Debug\net6.0\ref\cumples.API.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\cumples\bin\Debug\net6.0\Newtonsoft.Json.dll

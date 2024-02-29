@@ -1,0 +1,43 @@
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\bin\Debug\net6.0\cumples.Infrastructure.deps.json
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\bin\Debug\net6.0\cumples.Infrastructure.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\bin\Debug\net6.0\cumples.Infrastructure.pdb
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\obj\Debug\net6.0\cumples.Infrastructure.csproj.AssemblyReference.cache
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\obj\Debug\net6.0\cumples.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\obj\Debug\net6.0\cumples.Infrastructure.AssemblyInfoInputs.cache
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\obj\Debug\net6.0\cumples.Infrastructure.AssemblyInfo.cs
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\obj\Debug\net6.0\cumples.Infrastructure.csproj.CoreCompileInputs.cache
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\obj\Debug\net6.0\cumples.Infrastructure.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\obj\Debug\net6.0\refint\cumples.Infrastructure.dll
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\obj\Debug\net6.0\cumples.Infrastructure.pdb
+d:\Users\gmesny\Documents\GIT\Cumples\BackEnd\Clients\obj\Debug\net6.0\ref\cumples.Infrastructure.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\bin\Debug\net6.0\cumples.Infrastructure.deps.json
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\bin\Debug\net6.0\cumples.Infrastructure.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\bin\Debug\net6.0\cumples.Infrastructure.pdb
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\cumples.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\cumples.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\cumples.Infrastructure.AssemblyInfo.cs
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\cumples.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\cumples.Infrastructure.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\refint\cumples.Infrastructure.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\cumples.Infrastructure.pdb
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\ref\cumples.Infrastructure.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\bin\Debug\net6.0\cumples.DataModel.dll
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\bin\Debug\net6.0\cumples.DataModel.pdb
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\cumples.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\garrazabal\OneDrive - CRESUD S.A.C.I.F.y A\Desktop\Proyectos\IRSA.Cumples.Backend\Clients\obj\Debug\net6.0\cumples.Infrastructure.csproj.CopyComplete
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\bin\Debug\net6.0\cumples.Infrastructure.deps.json
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\bin\Debug\net6.0\cumples.Infrastructure.dll
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\bin\Debug\net6.0\cumples.Infrastructure.pdb
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\bin\Debug\net6.0\cumples.DataModel.dll
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\bin\Debug\net6.0\cumples.DataModel.pdb
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\cumples.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\cumples.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\cumples.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\cumples.Infrastructure.AssemblyInfo.cs
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\cumples.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\cumples.Infrastructure.sourcelink.json
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\cumples.Infrastructure.csproj.CopyComplete
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\cumples.Infrastructure.dll
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\refint\cumples.Infrastructure.dll
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\cumples.Infrastructure.pdb
+C:\Users\gmesny\Documents\GIT\Cumples\Clients\obj\Debug\net6.0\ref\cumples.Infrastructure.dll
